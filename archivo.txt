@@ -1,0 +1,38 @@
+[
+  {
+    "title": "television",
+    "precio": 5400,
+    "thumbnail": "url ficticia",
+    "id": 1
+  },
+  {
+    "title": "Radio",
+    "precio": 5400,
+    "thumbnail": "url ficticia",
+    "id": 2
+  },
+  {
+    "title": "musica",
+    "precio": 35400,
+    "thumbnail": "url ficticia",
+    "id": 3
+  },
+  {
+    "title": "estereo",
+    "precio": 1000,
+    "thumbnail": "url ficticia",
+    "id": 4
+  },
+  {
+    "title": "Casa",
+    "precio": 125400,
+    "thumbnail": "url ficticia",
+    "id": 5
+  },
+  {
+    "title": "estufa",
+    "precio": 400,
+    "thumbnail": "url ficticia",
+    "id": 6
+  }
+]
